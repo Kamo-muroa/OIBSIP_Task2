@@ -23,7 +23,7 @@ body{
     padding:0;
     box-sizing: border-box;
     
-    background-color:lightpink;
+    background-color: azure;
 }
 
 .heading{
@@ -34,12 +34,12 @@ body{
 
 .heading-1{
     font-family: "Lucida Console", monospace;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .heading-2{
    font-family: "Monaco", monospace;
-   font-size: 20px; 
+   font-size: 25px; 
 }
 /*
  * Remove text-shadow in selection highlight:
